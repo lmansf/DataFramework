@@ -33,3 +33,4 @@ And this is where it pays off. This short notebook will quickly run tests. Mine 
 
 ### To Do
 - Refactor notebooks 2 and 3 to be reusable templates
+- Add notations to notebooks 1, 2, 3.
